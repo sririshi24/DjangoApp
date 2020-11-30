@@ -6,7 +6,7 @@ import sys
 
 def main():
 
-    """Run administrative tasks here from satserver"""
+    """Run administrative tasks here from satserver test from pc"""
 
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'Edxweb.settings')
     try:
